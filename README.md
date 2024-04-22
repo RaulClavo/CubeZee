@@ -6,6 +6,6 @@ Instrucciones:
 - Las letras para crear iconos son 'c,s,t,p,k,b'
 - Para ejecutar cada icono es el Intro y para borrarlo el Backslash.
 Creditos:
-Buscaminas - https://github.com/ruanete/BuscaminasPY/tree/master
-Snake - https://github.com/PedroHigueraG/Snake/tree/main
-Pong - https://github.com/giturra/Pong-Python/tree/master
+- Buscaminas - https://github.com/ruanete/BuscaminasPY/tree/master
+- Snake - https://github.com/PedroHigueraG/Snake/tree/main
+- Pong - https://github.com/giturra/Pong-Python/tree/master
